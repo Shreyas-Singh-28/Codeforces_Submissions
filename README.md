@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 173 | 24 |
+| 174 | 24 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (3)
+- [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (12)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (30)
@@ -52,6 +52,7 @@
 | 1591C | [Minimize Distance](https://codeforces.com/contest/1591/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1591/C%20-%20Minimize%20Distance/solution.cpp) |
 | 2220C | [Grid L](https://codeforces.com/contest/2220/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2220/C%20-%20Grid%20L/solution.cpp) |
 | 2250C | [Rank Subsequence](https://codeforces.com/contest/2250/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2250/C%20-%20Rank%20Subsequence/solution.cpp) |
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 
 ### binary search
 
