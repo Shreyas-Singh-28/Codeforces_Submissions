@@ -6,28 +6,90 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 13 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [greedy](#greedy) (1)
+- [brute force](#brute-force) (2)
+- [constructive algorithms](#constructive-algorithms) (4)
+- [geometry](#geometry) (2)
+- [greedy](#greedy) (4)
+- [implementation](#implementation) (7)
+- [math](#math) (7)
 - [sortings](#sortings) (1)
+- [strings](#strings) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
+| 2084A | [Max and Mod](https://codeforces.com/contest/2084/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2084/A%20-%20Max%20and%20Mod/solution.cpp) |
+| 2096A | [Wonderful Sticks](https://codeforces.com/contest/2096/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2096/A%20-%20Wonderful%20Sticks/solution.cpp) |
+
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.cpp) |
+| 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.cpp) |
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
+| 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.cpp) |
+| 2096A | [Wonderful Sticks](https://codeforces.com/contest/2096/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2096/A%20-%20Wonderful%20Sticks/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
+| 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/133/A%20-%20HQ9%2B/solution.cpp) |
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+| 451A | [Game With Sticks](https://codeforces.com/contest/451/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/451/A%20-%20Game%20With%20Sticks/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
+| 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
+| 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
+| 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.cpp) |
+| 2084A | [Max and Mod](https://codeforces.com/contest/2084/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2084/A%20-%20Max%20and%20Mod/solution.cpp) |
+| 2086A | [Cloudberry Jam](https://codeforces.com/contest/2086/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2086/A%20-%20Cloudberry%20Jam/solution.cpp) |
+| 2093A | [Ideal Generator](https://codeforces.com/contest/2093/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2093/A%20-%20Ideal%20Generator/solution.cpp) |
 
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.cpp) |
+| 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 
 ---
 
