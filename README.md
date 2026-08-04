@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 104 | 21 |
+| 119 | 21 |
 
 ---
 
@@ -14,25 +14,25 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (1)
-- [binary search](#binary-search) (3)
+- [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (21)
+- [brute force](#brute-force) (23)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (16)
+- [constructive algorithms](#constructive-algorithms) (19)
 - [data structures](#data-structures) (4)
-- [dp](#dp) (7)
+- [dp](#dp) (9)
 - [games](#games) (1)
 - [geometry](#geometry) (5)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (43)
+- [greedy](#greedy) (50)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (35)
-- [math](#math) (46)
-- [number theory](#number-theory) (9)
+- [implementation](#implementation) (38)
+- [math](#math) (57)
+- [number theory](#number-theory) (11)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (17)
 - [strings](#strings) (10)
-- [two pointers](#two-pointers) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
 
@@ -54,6 +54,8 @@
 |---|---------|------------|----------|
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
 | 466C | [Number of Ways](https://codeforces.com/contest/466/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/466/C%20-%20Number%20of%20Ways/solution.cpp) |
+| 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
+| 1490C | [Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1490/C%20-%20Sum%20of%20Cubes/solution.cpp) |
 | 2218E | [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E) | 1200 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/E%20-%20The%2067th%20XOR%20Problem/solution.txt) |
 
 ### bitmasks
@@ -78,8 +80,10 @@
 | 1064A | [Make a triangle!](https://codeforces.com/contest/1064/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1064/A%20-%20Make%20a%20triangle!/solution.cpp) |
 | 1108B | [Divisors of Two Integers](https://codeforces.com/contest/1108/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1108/B%20-%20Divisors%20of%20Two%20Integers/solution.cpp) |
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
+| 1490C | [Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1490/C%20-%20Sum%20of%20Cubes/solution.cpp) |
 | 1498A | [GCD Sum](https://codeforces.com/contest/1498/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1498/A%20-%20GCD%20Sum/solution.cpp) |
 | 1499B | [Binary Removals](https://codeforces.com/contest/1499/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1499/B%20-%20Binary%20Removals/solution.cpp) |
+| 1941B | [Rudolf and 121](https://codeforces.com/contest/1941/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1941/B%20-%20Rudolf%20and%20121/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2103A | [Common Multiple](https://codeforces.com/contest/2103/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2103/A%20-%20Common%20Multiple/solution.cpp) |
 | 2106A | [Dr. TC](https://codeforces.com/contest/2106/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2106/A%20-%20Dr.%20TC/solution.cpp) |
@@ -108,7 +112,10 @@
 | 1401C | [Mere Array](https://codeforces.com/contest/1401/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1401/C%20-%20Mere%20Array/solution.cpp) |
 | 1454A | [Special Permutation](https://codeforces.com/contest/1454/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1454/A%20-%20Special%20Permutation/solution.cpp) |
 | 1454D | [Number into Sequence](https://codeforces.com/contest/1454/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1454/D%20-%20Number%20into%20Sequence/solution.cpp) |
+| 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
+| 1520C | [Not Adjacent Matrix](https://codeforces.com/contest/1520/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1520/C%20-%20Not%20Adjacent%20Matrix/solution.cpp) |
 | 1525B | [Permutation Sort](https://codeforces.com/contest/1525/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1525/B%20-%20Permutation%20Sort/solution.cpp) |
+| 1716B | [Permutation Chain](https://codeforces.com/contest/1716/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1716/B%20-%20Permutation%20Chain/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2084A | [Max and Mod](https://codeforces.com/contest/2084/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2084/A%20-%20Max%20and%20Mod/solution.cpp) |
 | 2096A | [Wonderful Sticks](https://codeforces.com/contest/2096/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2096/A%20-%20Wonderful%20Sticks/solution.cpp) |
@@ -138,6 +145,8 @@
 | 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1472/B%20-%20Fair%20Division/solution.cpp) |
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
 | 1499B | [Binary Removals](https://codeforces.com/contest/1499/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1499/B%20-%20Binary%20Removals/solution.cpp) |
+| 1941B | [Rudolf and 121](https://codeforces.com/contest/1941/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1941/B%20-%20Rudolf%20and%20121/solution.cpp) |
+| 2195C | [Dice Roll Sequence](https://codeforces.com/contest/2195/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2195/C%20-%20Dice%20Roll%20Sequence/solution.cpp) |
 
 ### games
 
@@ -181,10 +190,13 @@
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1399B | [Gifts Fixing](https://codeforces.com/contest/1399/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1399/B%20-%20Gifts%20Fixing/solution.cpp) |
 | 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1472/B%20-%20Fair%20Division/solution.cpp) |
+| 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
 | 1499B | [Binary Removals](https://codeforces.com/contest/1499/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1499/B%20-%20Binary%20Removals/solution.cpp) |
 | 1525B | [Permutation Sort](https://codeforces.com/contest/1525/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1525/B%20-%20Permutation%20Sort/solution.cpp) |
 | 1538B | [Friends and Candies](https://codeforces.com/contest/1538/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1538/B%20-%20Friends%20and%20Candies/solution.cpp) |
+| 1716A | [2-3 Moves](https://codeforces.com/contest/1716/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1716/A%20-%202-3%20Moves/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1806/A%20-%20Walking%20Master/solution.txt) |
+| 1941B | [Rudolf and 121](https://codeforces.com/contest/1941/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1941/B%20-%20Rudolf%20and%20121/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.cpp) |
 | 2096A | [Wonderful Sticks](https://codeforces.com/contest/2096/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2096/A%20-%20Wonderful%20Sticks/solution.cpp) |
@@ -198,6 +210,7 @@
 | 2185B | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2185/B%20-%20Prefix%20Max/solution.txt) |
 | 2193B | [Reverse a Permutation](https://codeforces.com/contest/2193/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2193/B%20-%20Reverse%20a%20Permutation/solution.cpp) |
 | 2193C | [Replace and Sum](https://codeforces.com/contest/2193/problem/C) | 1000 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2193/C%20-%20Replace%20and%20Sum/solution.txt) |
+| 2195C | [Dice Roll Sequence](https://codeforces.com/contest/2195/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2195/C%20-%20Dice%20Roll%20Sequence/solution.cpp) |
 | 2204B | [Right Maximum](https://codeforces.com/contest/2204/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2204/B%20-%20Right%20Maximum/solution.cpp) |
 | 2217B | [Flip the Bit (Easy Version)](https://codeforces.com/contest/2217/problem/B) | 1000 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2217/B%20-%20Flip%20the%20Bit%20(Easy%20Version)/solution.txt) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.txt) |
@@ -207,6 +220,9 @@
 | 2220B | [OIE Excursion](https://codeforces.com/contest/2220/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2220/B%20-%20OIE%20Excursion/solution.cpp) |
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.cpp) |
 | 2225B | [Alternating String](https://codeforces.com/contest/2225/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2225/B%20-%20Alternating%20String/solution.cpp) |
+| 2226A | [Disturbing Distribution](https://codeforces.com/contest/2226/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2226/A%20-%20Disturbing%20Distribution/solution.cpp) |
+| 2226B | [Everything Everywhere](https://codeforces.com/contest/2226/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2226/B%20-%20Everything%20Everywhere/solution.cpp) |
+| 2227B | [Party Monster](https://codeforces.com/contest/2227/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2227/B%20-%20Party%20Monster/solution.cpp) |
 | 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.cpp) |
 
 ### hashing
@@ -238,12 +254,14 @@
 | 451A | [Game With Sticks](https://codeforces.com/contest/451/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/451/A%20-%20Game%20With%20Sticks/solution.cpp) |
 | 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.cpp) |
 | 474A | [Keyboard](https://codeforces.com/contest/474/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/474/A%20-%20Keyboard/solution.cpp) |
+| 476A | [Dreamoon and Stairs](https://codeforces.com/contest/476/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/476/A%20-%20Dreamoon%20and%20Stairs/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 507A | [Amr and Music](https://codeforces.com/contest/507/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/507/A%20-%20Amr%20and%20Music/solution.cpp) |
 | 816A | [Karen and Morning](https://codeforces.com/contest/816/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/816/A%20-%20Karen%20and%20Morning/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1454B | [Unique Bid Auction](https://codeforces.com/contest/1454/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1454/B%20-%20Unique%20Bid%20Auction/solution.cpp) |
 | 1499B | [Binary Removals](https://codeforces.com/contest/1499/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1499/B%20-%20Binary%20Removals/solution.cpp) |
+| 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.cpp) |
 | 2103A | [Common Multiple](https://codeforces.com/contest/2103/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2103/A%20-%20Common%20Multiple/solution.cpp) |
@@ -254,6 +272,7 @@
 | 2204A | [Passing the Ball](https://codeforces.com/contest/2204/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2204/A%20-%20Passing%20the%20Ball/solution.cpp) |
 | 2217B | [Flip the Bit (Easy Version)](https://codeforces.com/contest/2217/problem/B) | 1000 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2217/B%20-%20Flip%20the%20Bit%20(Easy%20Version)/solution.txt) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
+| 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2227/A%20-%20Koshary/solution.cpp) |
 
 ### math
 
@@ -264,6 +283,8 @@
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
+| 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/318/A%20-%20Even%20Odds/solution.cpp) |
+| 476A | [Dreamoon and Stairs](https://codeforces.com/contest/476/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/476/A%20-%20Dreamoon%20and%20Stairs/solution.cpp) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 507B | [Amr and Pins](https://codeforces.com/contest/507/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/507/B%20-%20Amr%20and%20Pins/solution.cpp) |
@@ -281,10 +302,15 @@
 | 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1472/B%20-%20Fair%20Division/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
+| 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
+| 1490C | [Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1490/C%20-%20Sum%20of%20Cubes/solution.cpp) |
 | 1498A | [GCD Sum](https://codeforces.com/contest/1498/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1498/A%20-%20GCD%20Sum/solution.cpp) |
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
 | 1538B | [Friends and Candies](https://codeforces.com/contest/1538/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1538/B%20-%20Friends%20and%20Candies/solution.cpp) |
+| 1716A | [2-3 Moves](https://codeforces.com/contest/1716/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1716/A%20-%202-3%20Moves/solution.cpp) |
+| 1716B | [Permutation Chain](https://codeforces.com/contest/1716/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1716/B%20-%20Permutation%20Chain/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1806/A%20-%20Walking%20Master/solution.txt) |
+| 1941B | [Rudolf and 121](https://codeforces.com/contest/1941/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1941/B%20-%20Rudolf%20and%20121/solution.cpp) |
 | 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.cpp) |
 | 2084A | [Max and Mod](https://codeforces.com/contest/2084/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2084/A%20-%20Max%20and%20Mod/solution.cpp) |
 | 2086A | [Cloudberry Jam](https://codeforces.com/contest/2086/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2086/A%20-%20Cloudberry%20Jam/solution.cpp) |
@@ -299,12 +325,16 @@
 | 2176A | [Operations with Inversions](https://codeforces.com/contest/2176/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2176/A%20-%20Operations%20with%20Inversions/solution.txt) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.txt) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.txt) |
+| 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.cpp) |
 | 2217A | [The Equalizer](https://codeforces.com/contest/2217/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2217/A%20-%20The%20Equalizer/solution.txt) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.txt) |
 | 2218C | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/C%20-%20The%2067th%20Permutation%20Problem/solution.txt) |
 | 2218D | [The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) | 1100 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/D%20-%20The%2067th%20OEIS%20Problem/solution.txt) |
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.cpp) |
+| 2226A | [Disturbing Distribution](https://codeforces.com/contest/2226/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2226/A%20-%20Disturbing%20Distribution/solution.cpp) |
+| 2226B | [Everything Everywhere](https://codeforces.com/contest/2226/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2226/B%20-%20Everything%20Everywhere/solution.cpp) |
+| 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2227/A%20-%20Koshary/solution.cpp) |
 
 ### number theory
 
@@ -318,7 +348,9 @@
 | 1401C | [Mere Array](https://codeforces.com/contest/1401/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1401/C%20-%20Mere%20Array/solution.cpp) |
 | 1454D | [Number into Sequence](https://codeforces.com/contest/1454/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1454/D%20-%20Number%20into%20Sequence/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
+| 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.cpp) |
 | 2218D | [The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) | 1100 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/D%20-%20The%2067th%20OEIS%20Problem/solution.txt) |
+| 2226B | [Everything Everywhere](https://codeforces.com/contest/2226/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2226/B%20-%20Everything%20Everywhere/solution.cpp) |
 
 ### probabilities
 
@@ -368,6 +400,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 466C | [Number of Ways](https://codeforces.com/contest/466/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/466/C%20-%20Number%20of%20Ways/solution.cpp) |
+| 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
 
 ---
 
