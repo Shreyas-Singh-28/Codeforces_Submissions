@@ -6,31 +6,42 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 11 |
+| 44 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (6)
+- [binary search](#binary-search) (1)
+- [bitmasks](#bitmasks) (2)
+- [brute force](#brute-force) (9)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (6)
+- [constructive algorithms](#constructive-algorithms) (8)
+- [data structures](#data-structures) (1)
 - [dp](#dp) (1)
-- [geometry](#geometry) (2)
-- [greedy](#greedy) (11)
-- [implementation](#implementation) (11)
-- [math](#math) (17)
-- [sortings](#sortings) (6)
+- [games](#games) (1)
+- [geometry](#geometry) (3)
+- [greedy](#greedy) (19)
+- [implementation](#implementation) (15)
+- [math](#math) (25)
+- [number theory](#number-theory) (1)
+- [sortings](#sortings) (7)
 - [strings](#strings) (4)
 
 ---
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2218E | [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E) | 1200 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/E%20-%20The%2067th%20XOR%20Problem/solution.txt) |
 
 ### bitmasks
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2176B | [Optimal Shifts](https://codeforces.com/contest/2176/problem/B) | 1000 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2176/B%20-%20Optimal%20Shifts/solution.txt) |
+| 2218E | [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E) | 1200 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/E%20-%20The%2067th%20XOR%20Problem/solution.txt) |
 
 ### brute force
 
@@ -42,6 +53,9 @@
 | 2103A | [Common Multiple](https://codeforces.com/contest/2103/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2103/A%20-%20Common%20Multiple/solution.cpp) |
 | 2106A | [Dr. TC](https://codeforces.com/contest/2106/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2106/A%20-%20Dr.%20TC/solution.cpp) |
 | 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [Python 3](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.py) |
+| 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.txt) |
+| 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
+| 2218E | [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E) | 1200 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/E%20-%20The%2067th%20XOR%20Problem/solution.txt) |
 
 ### combinatorics
 
@@ -59,6 +73,14 @@
 | 2096A | [Wonderful Sticks](https://codeforces.com/contest/2096/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2096/A%20-%20Wonderful%20Sticks/solution.cpp) |
 | 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [Python 3](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.py) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.txt) |
+| 2218C | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/C%20-%20The%2067th%20Permutation%20Problem/solution.txt) |
+| 2218D | [The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) | 1100 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/D%20-%20The%2067th%20OEIS%20Problem/solution.txt) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2193C | [Replace and Sum](https://codeforces.com/contest/2193/problem/C) | 1000 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2193/C%20-%20Replace%20and%20Sum/solution.txt) |
 
 ### dp
 
@@ -66,10 +88,17 @@
 |---|---------|------------|----------|
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
 
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
+
 ### geometry
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1806/A%20-%20Walking%20Master/solution.txt) |
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.cpp) |
 | 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.cpp) |
 
@@ -78,6 +107,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+| 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1806/A%20-%20Walking%20Master/solution.txt) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.cpp) |
 | 2096A | [Wonderful Sticks](https://codeforces.com/contest/2096/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2096/A%20-%20Wonderful%20Sticks/solution.cpp) |
@@ -87,6 +117,13 @@
 | 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [Python 3](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.py) |
 | 2176A | [Operations with Inversions](https://codeforces.com/contest/2176/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2176/A%20-%20Operations%20with%20Inversions/solution.txt) |
 | 2176B | [Optimal Shifts](https://codeforces.com/contest/2176/problem/B) | 1000 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2176/B%20-%20Optimal%20Shifts/solution.txt) |
+| 2185B | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2185/B%20-%20Prefix%20Max/solution.txt) |
+| 2193B | [Reverse a Permutation](https://codeforces.com/contest/2193/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2193/B%20-%20Reverse%20a%20Permutation/solution.cpp) |
+| 2193C | [Replace and Sum](https://codeforces.com/contest/2193/problem/C) | 1000 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2193/C%20-%20Replace%20and%20Sum/solution.txt) |
+| 2217B | [Flip the Bit (Easy Version)](https://codeforces.com/contest/2217/problem/B) | 1000 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2217/B%20-%20Flip%20the%20Bit%20(Easy%20Version)/solution.txt) |
+| 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.txt) |
+| 2218C | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/C%20-%20The%2067th%20Permutation%20Problem/solution.txt) |
+| 2218D | [The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) | 1100 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/D%20-%20The%2067th%20OEIS%20Problem/solution.txt) |
 | 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.cpp) |
 
 ### implementation
@@ -96,6 +133,7 @@
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/133/A%20-%20HQ9%2B/solution.cpp) |
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 451A | [Game With Sticks](https://codeforces.com/contest/451/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/451/A%20-%20Game%20With%20Sticks/solution.cpp) |
 | 474A | [Keyboard](https://codeforces.com/contest/474/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/474/A%20-%20Keyboard/solution.cpp) |
@@ -104,6 +142,9 @@
 | 2103A | [Common Multiple](https://codeforces.com/contest/2103/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2103/A%20-%20Common%20Multiple/solution.cpp) |
 | 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [Python 3](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.py) |
 | 2176A | [Operations with Inversions](https://codeforces.com/contest/2176/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2176/A%20-%20Operations%20with%20Inversions/solution.txt) |
+| 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.txt) |
+| 2217B | [Flip the Bit (Easy Version)](https://codeforces.com/contest/2217/problem/B) | 1000 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2217/B%20-%20Flip%20the%20Bit%20(Easy%20Version)/solution.txt) |
+| 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
 
 ### math
 
@@ -112,7 +153,9 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
+| 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1806/A%20-%20Walking%20Master/solution.txt) |
 | 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.cpp) |
 | 2084A | [Max and Mod](https://codeforces.com/contest/2084/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2084/A%20-%20Max%20and%20Mod/solution.cpp) |
 | 2086A | [Cloudberry Jam](https://codeforces.com/contest/2086/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2086/A%20-%20Cloudberry%20Jam/solution.cpp) |
@@ -126,6 +169,18 @@
 | 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [Python 3](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.py) |
 | 2176A | [Operations with Inversions](https://codeforces.com/contest/2176/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2176/A%20-%20Operations%20with%20Inversions/solution.txt) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.txt) |
+| 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.txt) |
+| 2217A | [The Equalizer](https://codeforces.com/contest/2217/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2217/A%20-%20The%20Equalizer/solution.txt) |
+| 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
+| 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.txt) |
+| 2218C | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/C%20-%20The%2067th%20Permutation%20Problem/solution.txt) |
+| 2218D | [The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) | 1100 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/D%20-%20The%2067th%20OEIS%20Problem/solution.txt) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2218D | [The 67th OEIS Problem](https://codeforces.com/contest/2218/problem/D) | 1100 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/D%20-%20The%2067th%20OEIS%20Problem/solution.txt) |
 
 ### sortings
 
@@ -136,6 +191,7 @@
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [Python 3](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2167/A%20-%20Square%3F/solution.py) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [Python 3](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2167/B%20-%20Your%20Name/solution.py) |
 | 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [Python 3](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.py) |
+| 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.txt) |
 | 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.cpp) |
 
 ### strings
