@@ -12,9 +12,9 @@ void solve() {
     vector<int> v(n);
     for(int &x:v) cin>>x;
     int res=m;
-    int stab=INT_MAX;
     vector<vector<int>> a(n,vector<int>(m));
-    vector<int> m_max;
+    vector<int> m_max(m);
+    priority_queue<int,vector<int>,greater<int>> pq;
     for(int i=0;i<n;i++) {
         for(int j=0;j<m;j++) {
             cin>>a[i][j];
@@ -24,12 +24,17 @@ void solve() {
         ll temp=0;
         int cnt=0;
         for(int j=0;j<m;j++) {
-            m_max.push_back(a[i][j]);
+            pq.push(a[i][j]);
+            if((int)pq.size()>m) pq.pop();
         }
-        sort(m_max.begin(),m_max.end(),greater<>());
-        if((int)m_max.size()>m) m_max.resize(m);
+        for(int j=m-1;j>=0;j--) {
+            int ele=pq.top();
+            pq.pop();
+            m_max[j]=ele;
+        }
         for(int j=0;j<m;j++) {
             temp+=m_max[j];
+            pq.push(m_max[j]);
             cnt++;
             if(temp>=v[i]) break;
         }
