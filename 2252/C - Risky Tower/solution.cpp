@@ -5,8 +5,6 @@ const int INF = 1e9;
 const ll LLINF = 1e18;
 const int MOD = 1e9+7;
  
-// max ans-number of col
- 
 void solve() {
     int n,m;cin>>n>>m;
     vector<int> v(n);
@@ -32,12 +30,15 @@ void solve() {
             pq.pop();
             m_max[j]=ele;
         }
-        for(int j=0;j<m;j++) {
+        int j=0;
+        for(;j<m;j++) {
             temp+=m_max[j];
             pq.push(m_max[j]);
             cnt++;
             if(temp>=v[i]) break;
         }
+        j++;
+        for(;j<m;j++) pq.push(m_max[j]);
         res=min(res,cnt);
     }
     cout<<res<<'
