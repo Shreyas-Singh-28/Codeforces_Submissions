@@ -5,9 +5,6 @@ const int INF = 1e9;
 const ll LLINF = 1e18;
 const int MOD = 1e9+7;
  
-//100111
-// max(1_vio,1,vio)+max(other_vio,other_cnt)
- 
 void solve() {
     int n;cin>>n;
     string s;cin>>s;
@@ -28,15 +25,11 @@ void solve() {
             else zero_vio++;
         } 
     }
-    // cout<<zero<<' '<<one<<' '<<zero_vio<<' '<<one_vio<<'
-';
-    if(one_vio>zero_vio) {
-        cout<<one_vio+one_vio-1<<'
+    if(zero_vio==one_vio) {
+        cout<<zero_vio+one_vio<<'
 ';
     }
-    else if(zero_vio>one_vio) cout<<zero_vio+zero_vio-1<<'
-';
-    else cout<<zero_vio+one_vio<<'
+    else cout<<max(zero_vio,one_vio)+max(zero_vio,one_vio)-1<<'
 ';
     return;
 }
