@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 182 | 24 |
+| 183 | 24 |
 
 ---
 
@@ -14,12 +14,12 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (12)
-- [binary search](#binary-search) (13)
+- [binary search](#binary-search) (14)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (31)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (36)
-- [data structures](#data-structures) (9)
+- [data structures](#data-structures) (10)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (16)
 - [dsu](#dsu) (1)
@@ -29,7 +29,7 @@
 - [graph matchings](#graph-matchings) (2)
 - [greedy](#greedy) (80)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (47)
+- [implementation](#implementation) (48)
 - [math](#math) (86)
 - [number theory](#number-theory) (21)
 - [probabilities](#probabilities) (1)
@@ -70,6 +70,7 @@
 | 466C | [Number of Ways](https://codeforces.com/contest/466/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/466/C%20-%20Number%20of%20Ways/solution.cpp) |
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/474/B%20-%20Worms/solution.cpp) |
 | 600B | [Queries about less or equal elements](https://codeforces.com/contest/600/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/600/B%20-%20Queries%20about%20less%20or%20equal%20elements/solution.cpp) |
+| 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.cpp) |
 | 978C | [Letters](https://codeforces.com/contest/978/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/978/C%20-%20Letters/solution.cpp) |
 | 1354B | [Ternary String](https://codeforces.com/contest/1354/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1354/B%20-%20Ternary%20String/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
@@ -179,6 +180,7 @@
 | 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
 | 466C | [Number of Ways](https://codeforces.com/contest/466/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/466/C%20-%20Number%20of%20Ways/solution.cpp) |
 | 600B | [Queries about less or equal elements](https://codeforces.com/contest/600/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/600/B%20-%20Queries%20about%20less%20or%20equal%20elements/solution.cpp) |
+| 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.cpp) |
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
 | 2193C | [Replace and Sum](https://codeforces.com/contest/2193/problem/C) | 1000 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2193/C%20-%20Replace%20and%20Sum/solution.txt) |
 | 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
@@ -370,6 +372,7 @@
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 507A | [Amr and Music](https://codeforces.com/contest/507/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/507/A%20-%20Amr%20and%20Music/solution.cpp) |
 | 816A | [Karen and Morning](https://codeforces.com/contest/816/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/816/A%20-%20Karen%20and%20Morning/solution.cpp) |
+| 816B | [Karen and Coffee](https://codeforces.com/contest/816/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/816/B%20-%20Karen%20and%20Coffee/solution.cpp) |
 | 978C | [Letters](https://codeforces.com/contest/978/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/978/C%20-%20Letters/solution.cpp) |
 | 1311A | [Add Odd or Subtract Even](https://codeforces.com/contest/1311/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1311/A%20-%20Add%20Odd%20or%20Subtract%20Even/solution.cpp) |
 | 1354B | [Ternary String](https://codeforces.com/contest/1354/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1354/B%20-%20Ternary%20String/solution.cpp) |
