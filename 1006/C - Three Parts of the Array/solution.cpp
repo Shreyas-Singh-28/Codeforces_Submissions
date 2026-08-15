@@ -29,7 +29,6 @@ void solve() {
             ans=l_sum;
         }
     }
-    if(l_sum==r_sum) ans=l_sum;
     cout<<ans<<'
 ';
     return;
