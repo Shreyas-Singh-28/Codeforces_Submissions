@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 187 | 24 |
+| 188 | 24 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [greedy](#greedy) (82)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (49)
-- [math](#math) (87)
+- [math](#math) (88)
 - [number theory](#number-theory) (21)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (29)
@@ -495,6 +495,7 @@
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.cpp) |
 | 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2252/B%20-%20Always%20Changing/solution.cpp) |
 | 2254D | [Silhouette](https://codeforces.com/contest/2254/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2254/D%20-%20Silhouette/solution.cpp) |
+| 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2257/B%20-%20Gigantomachy/solution.cpp) |
 
 ### number theory
 
