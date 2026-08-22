@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 189 | 24 |
+| 190 | 24 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (12)
+- [Uncategorized](#uncategorized) (13)
 - [binary search](#binary-search) (15)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (32)
@@ -49,6 +49,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1077C | [Good Array](https://codeforces.com/contest/1077/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1077/C%20-%20Good%20Array/solution.cpp) |
 | 1591C | [Minimize Distance](https://codeforces.com/contest/1591/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1591/C%20-%20Minimize%20Distance/solution.cpp) |
 | 2220C | [Grid L](https://codeforces.com/contest/2220/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2220/C%20-%20Grid%20L/solution.cpp) |
 | 2250C | [Rank Subsequence](https://codeforces.com/contest/2250/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2250/C%20-%20Rank%20Subsequence/solution.cpp) |
