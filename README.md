@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 193 | 24 |
+| 194 | 24 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (13)
 - [binary search](#binary-search) (16)
 - [bitmasks](#bitmasks) (4)
-- [brute force](#brute-force) (34)
+- [brute force](#brute-force) (35)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (36)
 - [data structures](#data-structures) (13)
@@ -27,14 +27,14 @@
 - [games](#games) (3)
 - [geometry](#geometry) (5)
 - [graph matchings](#graph-matchings) (2)
-- [greedy](#greedy) (84)
+- [greedy](#greedy) (85)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (49)
 - [math](#math) (89)
 - [number theory](#number-theory) (21)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (32)
-- [strings](#strings) (18)
+- [strings](#strings) (19)
 - [two pointers](#two-pointers) (8)
 
 ---
@@ -120,6 +120,7 @@
 | 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [Python 3](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.py) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.txt) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
+| 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
 | 2204A | [Passing the Ball](https://codeforces.com/contest/2204/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2204/A%20-%20Passing%20the%20Ball/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.txt) |
 | 2218E | [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E) | 1200 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/E%20-%20The%2067th%20XOR%20Problem/solution.txt) |
@@ -319,6 +320,7 @@
 | 2195C | [Dice Roll Sequence](https://codeforces.com/contest/2195/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2195/C%20-%20Dice%20Roll%20Sequence/solution.cpp) |
 | 2200A | [Eating Game](https://codeforces.com/contest/2200/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2200/A%20-%20Eating%20Game/solution.cpp) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
+| 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
 | 2204B | [Right Maximum](https://codeforces.com/contest/2204/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2204/B%20-%20Right%20Maximum/solution.cpp) |
 | 2217B | [Flip the Bit (Easy Version)](https://codeforces.com/contest/2217/problem/B) | 1000 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2217/B%20-%20Flip%20the%20Bit%20(Easy%20Version)/solution.txt) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.txt) |
@@ -591,6 +593,7 @@
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [Python 3](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2167/B%20-%20Your%20Name/solution.py) |
 | 2176B | [Optimal Shifts](https://codeforces.com/contest/2176/problem/B) | 1000 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2176/B%20-%20Optimal%20Shifts/solution.txt) |
+| 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.cpp) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
