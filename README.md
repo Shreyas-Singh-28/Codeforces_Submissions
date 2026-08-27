@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 198 | 24 |
+| 199 | 24 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (14)
-- [binary search](#binary-search) (16)
+- [binary search](#binary-search) (17)
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (35)
 - [combinatorics](#combinatorics) (2)
@@ -27,10 +27,10 @@
 - [games](#games) (3)
 - [geometry](#geometry) (5)
 - [graph matchings](#graph-matchings) (2)
-- [greedy](#greedy) (88)
+- [greedy](#greedy) (89)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (49)
-- [math](#math) (89)
+- [math](#math) (90)
 - [number theory](#number-theory) (21)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (34)
@@ -81,6 +81,7 @@
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
 | 1490C | [Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1490/C%20-%20Sum%20of%20Cubes/solution.cpp) |
 | 1593C | [Save More Mice](https://codeforces.com/contest/1593/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1593/C%20-%20Save%20More%20Mice/solution.cpp) |
+| 2091D | [Place of the Olympiad](https://codeforces.com/contest/2091/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2091/D%20-%20Place%20of%20the%20Olympiad/solution.cpp) |
 | 2218E | [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E) | 1200 | [PyPy 3-64](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2218/E%20-%20The%2067th%20XOR%20Problem/solution.txt) |
 | 2232B | [Cake Leveling](https://codeforces.com/contest/2232/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2232/B%20-%20Cake%20Leveling/solution.cpp) |
 | 2252C | [Risky Tower](https://codeforces.com/contest/2252/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2252/C%20-%20Risky%20Tower/solution.cpp) |
@@ -310,6 +311,7 @@
 | 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.cpp) |
 | 2091B | [Team Training](https://codeforces.com/contest/2091/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2091/B%20-%20Team%20Training/solution.cpp) |
 | 2091C | [Combination Lock](https://codeforces.com/contest/2091/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2091/C%20-%20Combination%20Lock/solution.cpp) |
+| 2091D | [Place of the Olympiad](https://codeforces.com/contest/2091/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2091/D%20-%20Place%20of%20the%20Olympiad/solution.cpp) |
 | 2093B | [Expensive Number](https://codeforces.com/contest/2093/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2093/B%20-%20Expensive%20Number/solution.cpp) |
 | 2096A | [Wonderful Sticks](https://codeforces.com/contest/2096/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2096/A%20-%20Wonderful%20Sticks/solution.cpp) |
 | 2096B | [Wonderful Gloves](https://codeforces.com/contest/2096/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2096/B%20-%20Wonderful%20Gloves/solution.cpp) |
@@ -468,6 +470,7 @@
 | 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.cpp) |
 | 2084A | [Max and Mod](https://codeforces.com/contest/2084/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2084/A%20-%20Max%20and%20Mod/solution.cpp) |
 | 2086A | [Cloudberry Jam](https://codeforces.com/contest/2086/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2086/A%20-%20Cloudberry%20Jam/solution.cpp) |
+| 2091D | [Place of the Olympiad](https://codeforces.com/contest/2091/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2091/D%20-%20Place%20of%20the%20Olympiad/solution.cpp) |
 | 2093A | [Ideal Generator](https://codeforces.com/contest/2093/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2093/A%20-%20Ideal%20Generator/solution.cpp) |
 | 2093B | [Expensive Number](https://codeforces.com/contest/2093/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2093/B%20-%20Expensive%20Number/solution.cpp) |
 | 2093C | [Simple Repetition](https://codeforces.com/contest/2093/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2093/C%20-%20Simple%20Repetition/solution.cpp) |
