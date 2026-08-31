@@ -6,6 +6,12 @@ const ll LLINF = 1e18;
 const int MOD = 1e9+7;
  
 // 1 1 3 5 5 7 7
+// 1 1 1 1 1 1 1 2 4 4 6 6 
+ 
+// 1 1 1 2 2 2 2 2 3 3 4 4 
+// 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 3 3 
+ 
+//
  
 void solve() {
     int n,m;
@@ -17,8 +23,12 @@ void solve() {
         mp[x]++;
     }
     int res=0;
+    int ans=0;
     for(int i=1;i<=m;i++) {
-        res=max(res,mp[i]+2*mp[2*i]+(n-mp[i]-mp[2*i]));
+        if(res<mp[i]+2*mp[2*i]+(n-mp[i]-mp[2*i])) {
+            res=mp[i]+2*mp[2*i]+(n-mp[i]-mp[2*i]);
+            ans=i;
+        }
         n-=mp[i];
     }
     cout<<res<<'
