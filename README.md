@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 201 | 24 |
+| 202 | 24 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [binary search](#binary-search) (17)
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (37)
-- [combinatorics](#combinatorics) (2)
+- [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (37)
 - [data structures](#data-structures) (13)
 - [dfs and similar](#dfs-and-similar) (2)
@@ -30,8 +30,8 @@
 - [greedy](#greedy) (89)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (49)
-- [math](#math) (92)
-- [number theory](#number-theory) (22)
+- [math](#math) (93)
+- [number theory](#number-theory) (23)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (34)
 - [strings](#strings) (19)
@@ -142,6 +142,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.cpp) |
+| 1931D | [Divisible Pairs](https://codeforces.com/contest/1931/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1931/D%20-%20Divisible%20Pairs/solution.cpp) |
 | 2108A | [Permutation Warm-Up](https://codeforces.com/contest/2108/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2108/A%20-%20Permutation%20Warm-Up/solution.cpp) |
 
 ### constructive algorithms
@@ -469,6 +470,7 @@
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1915E | [Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1915/E%20-%20Romantic%20Glasses/solution.cpp) |
+| 1931D | [Divisible Pairs](https://codeforces.com/contest/1931/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1931/D%20-%20Divisible%20Pairs/solution.cpp) |
 | 1941B | [Rudolf and 121](https://codeforces.com/contest/1941/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1941/B%20-%20Rudolf%20and%20121/solution.cpp) |
 | 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.cpp) |
 | 2084A | [Max and Mod](https://codeforces.com/contest/2084/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2084/A%20-%20Max%20and%20Mod/solution.cpp) |
@@ -536,6 +538,7 @@
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 1931D | [Divisible Pairs](https://codeforces.com/contest/1931/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1931/D%20-%20Divisible%20Pairs/solution.cpp) |
 | 2091E | [Interesting Ratio](https://codeforces.com/contest/2091/problem/E) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2091/E%20-%20Interesting%20Ratio/solution.cpp) |
 | 2093C | [Simple Repetition](https://codeforces.com/contest/2093/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2093/C%20-%20Simple%20Repetition/solution.cpp) |
 | 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.cpp) |
