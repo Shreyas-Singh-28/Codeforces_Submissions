@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 206 | 24 |
+| 207 | 24 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (39)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (38)
+- [constructive algorithms](#constructive-algorithms) (39)
 - [data structures](#data-structures) (13)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (17)
@@ -27,7 +27,7 @@
 - [games](#games) (4)
 - [geometry](#geometry) (5)
 - [graph matchings](#graph-matchings) (2)
-- [greedy](#greedy) (91)
+- [greedy](#greedy) (92)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (50)
 - [math](#math) (95)
@@ -189,6 +189,7 @@
 | 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2250/B%20-%20String%20Construction/solution.cpp) |
 | 2254D | [Silhouette](https://codeforces.com/contest/2254/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2254/D%20-%20Silhouette/solution.cpp) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2259/C%20-%20101/solution.cpp) |
+| 2259D | [MEX Multiset](https://codeforces.com/contest/2259/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2259/D%20-%20MEX%20Multiset/solution.cpp) |
 
 ### data structures
 
@@ -370,6 +371,7 @@
 | 2252C | [Risky Tower](https://codeforces.com/contest/2252/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2252/C%20-%20Risky%20Tower/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2259/C%20-%20101/solution.cpp) |
+| 2259D | [MEX Multiset](https://codeforces.com/contest/2259/problem/D) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2259/D%20-%20MEX%20Multiset/solution.cpp) |
 
 ### hashing
 
