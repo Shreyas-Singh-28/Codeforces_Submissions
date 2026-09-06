@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 203 | 24 |
+| 204 | 24 |
 
 ---
 
@@ -30,8 +30,8 @@
 - [greedy](#greedy) (89)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (50)
-- [math](#math) (94)
-- [number theory](#number-theory) (23)
+- [math](#math) (95)
+- [number theory](#number-theory) (24)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (34)
 - [strings](#strings) (19)
@@ -526,6 +526,7 @@
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 | 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2257/B%20-%20Gigantomachy/solution.cpp) |
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
+| 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
 
 ### number theory
 
@@ -554,6 +555,7 @@
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.cpp) |
 | 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.cpp) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
+| 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
 
 ### probabilities
 
