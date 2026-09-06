@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 204 | 24 |
+| 205 | 24 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (14)
 - [binary search](#binary-search) (17)
 - [bitmasks](#bitmasks) (4)
-- [brute force](#brute-force) (38)
+- [brute force](#brute-force) (39)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (37)
 - [data structures](#data-structures) (13)
@@ -27,7 +27,7 @@
 - [games](#games) (4)
 - [geometry](#geometry) (5)
 - [graph matchings](#graph-matchings) (2)
-- [greedy](#greedy) (89)
+- [greedy](#greedy) (90)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (50)
 - [math](#math) (95)
@@ -35,7 +35,7 @@
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (34)
 - [strings](#strings) (19)
-- [two pointers](#two-pointers) (9)
+- [two pointers](#two-pointers) (10)
 
 ---
 
@@ -137,6 +137,7 @@
 | 2252C | [Risky Tower](https://codeforces.com/contest/2252/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2252/C%20-%20Risky%20Tower/solution.cpp) |
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
+| 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 
 ### combinatorics
 
@@ -366,6 +367,7 @@
 | 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.cpp) |
 | 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2252/B%20-%20Always%20Changing/solution.cpp) |
 | 2252C | [Risky Tower](https://codeforces.com/contest/2252/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2252/C%20-%20Risky%20Tower/solution.cpp) |
+| 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 
 ### hashing
 
@@ -639,6 +641,7 @@
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
 | 2091E | [Interesting Ratio](https://codeforces.com/contest/2091/problem/E) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2091/E%20-%20Interesting%20Ratio/solution.cpp) |
 | 2242C | [Unstable Elements](https://codeforces.com/contest/2242/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2242/C%20-%20Unstable%20Elements/solution.cpp) |
+| 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Shreyas-Singh-28/Codeforces_Submissions/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 
 ---
 
